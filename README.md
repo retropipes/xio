@@ -1,2 +1,2 @@
-# lib-java-xio
+# XIO
  Java XML I/O utility library.
